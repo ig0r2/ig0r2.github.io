@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Formula1 Display';
+    src: url('Formula1-Display-Black.eot');
+    src: url('Formula1-Display-Black.eot?#iefix') format('embedded-opentype'),
+        url('Formula1-Display-Black.woff2') format('woff2'),
+        url('Formula1-Display-Black.woff') format('woff'),
+        url('Formula1-Display-Black.ttf') format('truetype'),
+        url('Formula1-Display-Black.svg#Formula1-Display-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Formula1 Display';
+    src: url('Formula1-Display-Regular.eot');
+    src: url('Formula1-Display-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Formula1-Display-Regular.woff2') format('woff2'),
+        url('Formula1-Display-Regular.woff') format('woff'),
+        url('Formula1-Display-Regular.ttf') format('truetype'),
+        url('Formula1-Display-Regular.svg#Formula1-Display-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Formula1 Display-Wide';
+    src: url('Formula1-Display-Wide.eot');
+    src: url('Formula1-Display-Wide.eot?#iefix') format('embedded-opentype'),
+        url('Formula1-Display-Wide.woff2') format('woff2'),
+        url('Formula1-Display-Wide.woff') format('woff'),
+        url('Formula1-Display-Wide.ttf') format('truetype'),
+        url('Formula1-Display-Wide.svg#Formula1-Display-Wide') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Formula1 Display';
+    src: url('Formula1-Display-Bold.eot');
+    src: url('Formula1-Display-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Formula1-Display-Bold.woff2') format('woff2'),
+        url('Formula1-Display-Bold.woff') format('woff'),
+        url('Formula1-Display-Bold.ttf') format('truetype'),
+        url('Formula1-Display-Bold.svg#Formula1-Display-Bold') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
